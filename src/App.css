@@ -1,0 +1,11 @@
+#root {
+    margin: 0 auto;
+    text-align: center;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    background: rgb(157,201,193);
+    background: linear-gradient(90deg, rgba(157,201,193,1) 0%, rgba(106,142,197,1) 100%);
+}
